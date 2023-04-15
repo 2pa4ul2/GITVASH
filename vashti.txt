@@ -3,9 +3,12 @@ hindi ah
 bias mo nga si lucas
 sino yon 
 ay tinatanggi mo ah susumbong kita don
-<<<<<<< HEAD
 yari ka talaga sige
-=======
 wews baka pansinin ka nun 
+<<<<<<< HEAD
 >>>>>>> ba0f763daf9852294c50afac2565079c148286a5
 ginagawamue? bat dami ng etcetera dito HAHAHHAHA
+=======
+ako to eh bakit ba jk
+>>>>>>> 6efffbb4c97a79eab91dd6853b74b8ae54a817d6
+wag ka sumabay mag push epal jk HAHAHAHA
