@@ -3,4 +3,8 @@ hindi ah
 bias mo nga si lucas
 sino yon 
 ay tinatanggi mo ah susumbong kita don
+<<<<<<< HEAD
 yari ka talaga sige
+=======
+wews baka pansinin ka nun 
+>>>>>>> ba0f763daf9852294c50afac2565079c148286a5
